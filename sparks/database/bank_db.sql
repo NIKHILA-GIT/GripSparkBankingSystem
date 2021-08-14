@@ -39,7 +39,7 @@ CREATE TABLE `transfer` (
 --
 
 INSERT INTO `transfer` (`sid`, `sender`, `receiver`, `amount`) VALUES
-(1, 'Vaishnavi', 'Vaibhav', 400);
+(1, 'NIKHILA', 'K G', 400);
 
 -- --------------------------------------------------------
 
@@ -59,8 +59,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Vaibhav', 'vaibhav@gmail.com', 5400),
-(2, 'Vaishnavi', 'vaishnavi@gmail.com', 0);
+(1, 'Nikhila', 'Nikhila02@gmail.com', 4900),
+(2, 'NIKHILA K G ', 'NIKHI02@gmail.com', 500);
 
 --
 -- Indexes for dumped tables
